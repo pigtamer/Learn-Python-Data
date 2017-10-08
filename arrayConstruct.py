@@ -6,6 +6,7 @@ print(b)
 c = np.arange(1,13)
 print(c)
 c.reshape((3,4))
-
+cc = np.ones((3,3))
+print(cc)
 d = np.linspace(1,10,10)
 print(d)
